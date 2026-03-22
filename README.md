@@ -9,7 +9,7 @@
 
 <p align="center">
   🎓 IT Student • STI College Lipa <br>
-  🚀 Software Engineer in Progress • Mobile Developer • Tech Innovator <br>
+  🚀 Software Engineer in Progress • Junior Mobile Developer • Tech Innovator <br>
   🌍 Building practical, real-world systems with impact
 </p>
 
@@ -19,7 +19,7 @@
 
 I am an Information Technology student focused on building **scalable, real-world applications** beyond academic projects.
 
-My work centers on **mobile development, system design, and AI-integrated solutions**, with a strong emphasis on usability, structure, and real deployment.
+My work centers on **mobile development and system design**, with a strong emphasis on usability, structure, and real deployment.
 
 I approach development with a mindset of **clarity, efficiency, and clean architecture**.
 
